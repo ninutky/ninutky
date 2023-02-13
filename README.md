@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=cylinder&height=300&section=header&text=Park%20Nakyung&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=cylinder&height=200&section=header&text=Park%20Nakyung&fontSize=70&animation=blinking)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 STUDY 📚</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -42,5 +42,5 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuteNK&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuteNK&show_icons=true&theme=dracula)
 

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=0,2,2,5,30&type=cylinder&height=300&section=header&text=Park%20Nakyung&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=cylinder&height=300&section=header&text=Park%20Nakyung&fontSize=90&animation=blinking)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuteNK&show_icons=true&theme=omni)

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=cylinder&height=180&section=header&text=Nakyung's%20Github&fontSize=60&animation=blinking)
 
-<br><br><br>
+<br>
 <div align=center><h2>✨ STUDY ✨</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuteNK&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<br><br><br>
+<br><br>
 ![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=wave&height=180&section=footer)
 

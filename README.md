@@ -43,8 +43,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 <br><br><br>
+<div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuteNK&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuteNK&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br><br>
 ![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=wave&height=180&section=footer)

@@ -50,4 +50,3 @@ Here are some ideas to get you started:
 
 <br><br>
 ![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=wave&height=180&section=footer)
-

@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=cylinder&height=180&section=header&text=Nakyung's%20Github&fontSize=60&animation=blinking)
 
 <br>

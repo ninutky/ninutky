@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=cylinder&height=180&section=header&text=Nakyung's%20Github&fontSize=60&animation=blinking)
 
+#Hi there I'm Nakyung. 😊🙌
+
 <br>
 <div align=center><h2>✨ STUDY ✨</h2></div>
 <div align=center>

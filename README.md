@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?&color=auto&customColorList=1&type=cylinder&height=180&section=header&text=Nakyung's%20Github&fontSize=60&animation=blinking)
 
-#Hi there I'm Nakyung. 😊🙌
-
-<br>
-<div align=center><h2>✨ STUDY ✨</h2></div>
 <div align=center>
+    <h3>😊Hi there! welcome to my page🙌</h3><br>
+    <h2>✨ STUDY ✨</h2>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
